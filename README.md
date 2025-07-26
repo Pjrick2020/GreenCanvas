@@ -1,4 +1,4 @@
-# GreenCanvas
+index.html
 Landscaping tool for garden development
 <!-- Analytics Section -->
 
